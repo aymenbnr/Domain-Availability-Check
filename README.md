@@ -11,3 +11,8 @@ This Node.JS code checks whether the domain is avaialble to buy or not.
 5. The script will filter out the domains and create 2 separate files as follow:
     1. **available.txt** - This file contains the domain names which are available to be registered.
     2. **error-checking.txt** - This file contains the domain names which couldn't be checked now and have to re-check later.
+
+# Credits
+    - [Prateek](https://www.facebook.com/prateek707)
+    - [Chalk](https://github.com/chalk/chalk)
+    - [whois](https://github.com/hjr265/node-whois)
