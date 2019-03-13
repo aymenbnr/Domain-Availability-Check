@@ -1,0 +1,16 @@
+{
+  "name": "whois-check",
+  "version": "1.0.0",
+  "description": "This tool is to check bulk availability of domain names",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Prateek Anand",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "whois": "^2.9.1"
+  }
+}
